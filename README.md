@@ -7,7 +7,7 @@ Have the following installed on your machine:
 
 ### Running the Application
 
-1. Run Docker Application
+1. Run Docker Desktop Application
 
 2. Go into commandline and copy/paste this docker image
 ```
