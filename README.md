@@ -11,7 +11,7 @@ Have the following installed on your machine:
 
 2. Go into commandline and copy/paste this docker image
 ```
-$ docker run riinriindocker/flask-ocr
+$ docker run -d -p 5000:5000 riinriindocker/flask-ocr
 ```
 
 3. Go to the url
